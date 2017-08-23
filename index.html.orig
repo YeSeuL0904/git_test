@@ -1,14 +1,24 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
-<title>GIT ����</title>
+<<<<<<< HEAD
+<title>GIT ????</title>
+=======
+<title>GIT test</title>
+>>>>>>> 9665c3c551b8fa567616d80e3a616fc080e9a6b7
 </head>
 <body>
-<<<<<<< HEAD
 <header>
 <h1>Git</h1>
 </header>
+<ul>
+<<<<<<< HEAD
+<li>브랜치</li>
+<li>충돌</li>
+<li>충돌해결</li>
+<li>원격저장소</li>
 =======
->>>>>>> 78093d71713a2f287347b95508f4e079e5c8113c
+<li>sync.egoing</li>
+>>>>>>> 9665c3c551b8fa567616d80e3a616fc080e9a6b7
 </body>
 </html>
