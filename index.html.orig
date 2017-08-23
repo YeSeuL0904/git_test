@@ -1,13 +1,14 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
-<title>GIT test</title>
+<title>GIT ¼ö¾÷</title>
 </head>
 <body>
+<<<<<<< HEAD
 <header>
 <h1>Git</h1>
 </header>
-<ul>
-<li>sync.egoing</li>
+=======
+>>>>>>> 78093d71713a2f287347b95508f4e079e5c8113c
 </body>
 </html>
